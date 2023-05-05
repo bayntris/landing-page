@@ -15,6 +15,7 @@ header {
     background-color: #1F2937;
     
     font-size: 24px;
+    font-weight: bold;
     color: #F9FAF8;
 }
 
@@ -28,6 +29,7 @@ header ul {
 
 a {
     font-size: 18px;
+    font-weight: 300;
     color: #E5E7EB;
     text-decoration: none;
 }
