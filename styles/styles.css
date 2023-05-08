@@ -168,3 +168,12 @@ img {
     border: 2px solid white;
 }
 
+
+footer {
+    display: flex;
+    justify-content: center;
+    font-weight: 300;
+    padding: 40px;
+    background-color: #1F2937;
+    color: white;
+}
